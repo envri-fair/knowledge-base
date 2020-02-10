@@ -1,0 +1,19 @@
+@prefix envri: <http://envri.eu/ns/> .
+@prefix fair: <https://w3id.org/fair/principles/terms/> . 
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
+@prefix schema: <http://schema.org/> .
+
+envri:TechnologyDemonstrator rdfs:label "technology demonstrator"@en .
+
+fair:R1.2 envri:hasDemonstrator envri:provenance-demonstrator .
+envri:provenance-demonstrator a envri:TechnologyDemonstrator ;
+	dc:creator "Markus Stocker" ;
+	dc:created "2019-12-06"^^xsd:date ;
+	schema:url "https://mybinder.org/v2/gh/envri-fair/provenance-demonstrator.git/master"^^xsd:anyURI .
+
+fair:I2 envri:hasDemonstrator envri:vocabularies-demonstrator .
+envri:vocabularies-demonstrator a envri:TechnologyDemonstrator ;
+	dc:creator "Alexandra Kokkinaki" ;
+	dc:created "2020-01-23"^^xsd:date ;
+	schema:url "https://mybinder.org/v2/gh/envri-fair/vocabularies-demonstrator.git/master"^^xsd:anyURI .
