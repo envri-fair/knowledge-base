@@ -1,0 +1,275 @@
+http://www.envri.eu/community#ESONET_Vi	http://xmlns.com/foaf/0.1/homepage	http://visobservatories.webs.com/
+http://www.envri.eu/community#ESONET_Vi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#ESONET_Vi	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#ESONET_Vi	http://www.w3.org/2004/02/skos/core#altLabel	ESONET the Vision
+http://www.envri.eu/community#ESONET_Vi	http://www.w3.org/2004/02/skos/core#altLabel	ESONET VI
+http://www.envri.eu/community#ESONET_Vi	http://www.w3.org/2004/02/skos/core#prefLabel	European Seafloor Observatory NETwork
+http://www.envri.eu/community#ESONET_Vi	http://www.oil-e.net/ontology/envri-rm.owl#shortName	ESONET-Vi
+http://www.envri.eu/community#ESONET_Vi	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#ESONET_Vi	http://purl.org/dc/elements/1.1/description	ESONET-Vi (ESONET the Vision) is a consortium focusing on deep-sea observatories built upon ESONET (European Seafloor Observatory NETwork) activities, in complement to the EMSO (European Multidisciplinary Seafloor Observation) observatories infrastructures.
+http://www.envri.eu/community#EISCAT_3D	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/eiscat#ProvisionalDataAcquisitionQualityControl
+http://www.envri.eu/community#EISCAT_3D	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/eiscat#ProvisionalDataCurationQualityControl
+http://www.envri.eu/community#EISCAT_3D	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/eiscat#CalibratedDataQualityControl
+http://www.envri.eu/community#EISCAT_3D	http://xmlns.com/foaf/0.1/homepage	https://eiscat3d.se/
+http://www.envri.eu/community#EISCAT_3D	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EISCAT_3D	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EISCAT_3D	http://www.w3.org/2004/02/skos/core#prefLabel	EISCAT_3D
+http://www.envri.eu/community#EISCAT_3D	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EISCAT_3D
+http://www.envri.eu/community#EISCAT_3D	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#EISCAT_3D	http://purl.org/dc/elements/1.1/description	EISCAT_3D will be an international research infrastructure that is using radar observations and the incoherent scatter technique for studies of the atmosphere and near-Earth space environment above the Fenno-Scandinavian Arctic as well as for support of the solar system and radio astronomy sciences.
+http://www.envri.eu/community#EMBRC	http://xmlns.com/foaf/0.1/homepage	http://www.embrc.eu/
+http://www.envri.eu/community#EMBRC	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EMBRC	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EMBRC	http://www.w3.org/2004/02/skos/core#prefLabel	European Marine Biological Resource Centre
+http://www.envri.eu/community#EMBRC	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EMBRC
+http://www.envri.eu/community#EMBRC	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#EMBRC	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#EMBRC	http://purl.org/dc/elements/1.1/description	EMBRC is a global reference Research Infrastructure responding to the societal Grand Challenges through advanced marine biology and ecology research.
+http://www.envri.eu/community#EUROFLEETS2	http://xmlns.com/foaf/0.1/homepage	http://www.eurofleets.eu/
+http://www.envri.eu/community#EUROFLEETS2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EUROFLEETS2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EUROFLEETS2	http://www.w3.org/2004/02/skos/core#altLabel	EUROFLEETS
+http://www.envri.eu/community#EUROFLEETS2	http://www.w3.org/2004/02/skos/core#prefLabel	EUROFLEETS2
+http://www.envri.eu/community#EUROFLEETS2	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EUROFLEETS2
+http://www.envri.eu/community#EUROFLEETS2	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#EUROFLEETS2	http://purl.org/dc/elements/1.1/description	New operational steps towards an alliance of European research fleets
+http://www.envri.eu/community#IAGOS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/iagos#DataPublishingQualityControl
+http://www.envri.eu/community#IAGOS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/iagos#AutomatedDataAcquisionQualityControl
+http://www.envri.eu/community#IAGOS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/iagos#PIQualityControl
+http://www.envri.eu/community#IAGOS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/iagos#DataCurationQualityControl
+http://www.envri.eu/community#IAGOS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/iagos#MeteorologicalQualityControl
+http://www.envri.eu/community#IAGOS	http://xmlns.com/foaf/0.1/homepage	http://www.iagos.org/
+http://www.envri.eu/community#IAGOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#IAGOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#IAGOS	http://www.w3.org/2004/02/skos/core#prefLabel	In-service Aircraft for a Global Observing System
+http://www.envri.eu/community#IAGOS	http://www.oil-e.net/ontology/envri-rm.owl#shortName	IAGOS
+http://www.envri.eu/community#IAGOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#IAGOS	http://purl.org/dc/elements/1.1/description	In-service Aircraft for a Global Observing System (IAGOS) is a European Research Infrastructure for global observations of atmospheric composition from commercial aircraft.
+http://www.envri.eu/community#AnaEE	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/anaee#QualityControl
+http://www.envri.eu/community#AnaEE	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/anaee#DataMonitoring
+http://www.envri.eu/community#AnaEE	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/anaee#AnaeeFranceRI
+http://www.envri.eu/community#AnaEE	http://xmlns.com/foaf/0.1/homepage	http://www.anaee.com/
+http://www.envri.eu/community#AnaEE	http://www.oil-e.net/ontology/oil-base.owl#supportedByProject	http://oil-e.vlan400.uvalight.net/anaee#ExpeER
+http://www.envri.eu/community#AnaEE	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#AnaEE	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#AnaEE	http://www.w3.org/2004/02/skos/core#prefLabel	Analysis and Experimentation on Ecosystems
+http://www.envri.eu/community#AnaEE	http://www.oil-e.net/ontology/envri-rm.owl#shortName	AnaEE
+http://www.envri.eu/community#AnaEE	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#AnaEE	http://purl.org/dc/elements/1.1/description	AnaEE (Infrastructure for Analysis and Experimentation on Ecosystems) is a research infrastructure dedicated to the experimental manipulation of managed and unmanaged terrestrial and aquatic ecosystems. It aims to support scientists in their analysis, assessment and forecasting of the impact of climate and other global changes on the services that ecosystems provide to society.
+http://www.envri.eu/community#JERICO-NEXT	http://xmlns.com/foaf/0.1/homepage	http://www.jerico-ri.eu/
+http://www.envri.eu/community#JERICO-NEXT	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#JERICO-NEXT	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#JERICO-NEXT	http://www.w3.org/2004/02/skos/core#altLabel	JERICO
+http://www.envri.eu/community#JERICO-NEXT	http://www.w3.org/2004/02/skos/core#prefLabel	JERICO-NEXT
+http://www.envri.eu/community#JERICO-NEXT	http://www.oil-e.net/ontology/envri-rm.owl#shortName	JERICO-NEXT
+http://www.envri.eu/community#JERICO-NEXT	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#JERICO-NEXT	http://purl.org/dc/elements/1.1/description	In the continuity of JERICO (FP7), the objective of JERICO-NEXT consists in strengthening and enlarging a solid and transparent European network in providing operational services for the timely, continuous and sustainable delivery of high quality environmental data and information products related to marine environment in European coastal seas.
+http://www.envri.eu/community#EUFAR	http://xmlns.com/foaf/0.1/homepage	http://www.eufar.net/
+http://www.envri.eu/community#EUFAR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EUFAR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EUFAR	http://www.w3.org/2004/02/skos/core#prefLabel	European Facility for Airborne Research
+http://www.envri.eu/community#EUFAR	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EUFAR
+http://www.envri.eu/community#EUFAR	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#EUFAR	http://purl.org/dc/elements/1.1/description	The EUropean Facility for Airborne Research (EUFAR) brings together infrastructure operators of both instrumented research aircraft and remote-sensing instruments with the scientific user community, both expert and early-stage researchers, other data users and stakeholders.
+http://www.envri.eu/community#EuroArgo	http://xmlns.com/foaf/0.1/homepage	http://www.euro-argo.eu/
+http://www.envri.eu/community#EuroArgo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EuroArgo	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EuroArgo	http://www.w3.org/2004/02/skos/core#prefLabel	Euro-Argo
+http://www.envri.eu/community#EuroArgo	http://www.oil-e.net/ontology/envri-rm.owl#shortName	Euro-Argo
+http://www.envri.eu/community#EuroArgo	http://www.oil-e.net/ontology/oil-base.owl#hasResource	http://oil-e.vlan400.uvalight.net/euro-argo#USNODC
+http://www.envri.eu/community#EuroArgo	http://www.oil-e.net/ontology/oil-base.owl#hasResource	http://oil-e.vlan400.uvalight.net/euro-argo#Argo
+http://www.envri.eu/community#EuroArgo	http://www.oil-e.net/ontology/oil-base.owl#hasResource	http://oil-e.vlan400.uvalight.net/euro-argo#Coriolis
+http://www.envri.eu/community#EuroArgo	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#EuroArgo	http://purl.org/dc/elements/1.1/description	Euro-Argo aims at developing a European "infrastructure" for Argo to the level where the European partners have the capacity to procure and deploy about 250 floats per year, to monitor these foats and ensure all the data can be processed and delivered to users (both in real-time and delayed-mode).
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/sios#MonitoringNetwork
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/sios#DataManagementSystem
+http://www.envri.eu/community#SIOS	http://xmlns.com/foaf/0.1/homepage	https://www.sios-svalbard.org/
+http://www.envri.eu/community#SIOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#SIOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#SIOS	http://www.w3.org/2004/02/skos/core#prefLabel	Svalbard Integrated Arctic Earth Observing System
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/envri-rm.owl#shortName	SIOS
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#Metaedit
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#OAI_PMH
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#GCMD_DIF
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#Solr
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#BasketMS
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#Drupal
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#PyOAI
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#OpenSearch
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#Iso19115
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#WebMapService
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#CatalogServiceWeb
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#Fimex
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#PyWPS
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#WebProcessingService
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#GCMDKeywords
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#SMSms
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#JTimeseries
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/oil-base.owl#usesTechnology	http://oil-e.vlan400.uvalight.net/envri#OpenDAP
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#SolidEarthDomain
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#SIOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#SIOS	http://purl.org/dc/elements/1.1/description	An international observing system for long-term measurements in and around the Norwegian archipelago of Svalbard addressing Earth System Science questions.
+http://www.envri.eu/community#FixO3	http://xmlns.com/foaf/0.1/homepage	http://www.fixo3.eu/
+http://www.envri.eu/community#FixO3	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#FixO3	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#FixO3	http://www.w3.org/2004/02/skos/core#altLabel	Fixed point Open Ocean Observatory network
+http://www.envri.eu/community#FixO3	http://www.w3.org/2004/02/skos/core#prefLabel	Fixed-point Open Ocean Observatories
+http://www.envri.eu/community#FixO3	http://www.oil-e.net/ontology/envri-rm.owl#shortName	FixO3
+http://www.envri.eu/community#FixO3	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#FixO3	http://purl.org/dc/elements/1.1/description	The Fixed point Open Ocean Observatory network (FixO3) seeks to integrate European open ocean fixed point observatories and to improve access to these key installations for the broader community.
+http://www.envri.eu/community#INTERACT	http://xmlns.com/foaf/0.1/homepage	http://www.eu-interact.org/
+http://www.envri.eu/community#INTERACT	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#INTERACT	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#INTERACT	http://www.w3.org/2004/02/skos/core#prefLabel	International Network for Terrestrial Research and Monitoring in the Arctic
+http://www.envri.eu/community#INTERACT	http://www.oil-e.net/ontology/envri-rm.owl#shortName	INTERACT
+http://www.envri.eu/community#INTERACT	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#INTERACT	http://purl.org/dc/elements/1.1/description	INTERACT is an infrastructure project under the auspices of SCANNET, a circumarctic network of currently 79 terrestrial field bases in northern Europe, Russia, US, Canada, Greenland, Iceland, the Faroe Islands and Scotland as well as stations in northern alpine areas.
+http://www.envri.eu/community#ICOS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/icos#NRTQualityControl
+http://www.envri.eu/community#ICOS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/icos#ManualQualityControl
+http://www.envri.eu/community#ICOS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/icos#CarbonPortal
+http://www.envri.eu/community#ICOS	http://xmlns.com/foaf/0.1/homepage	https://www.icos-ri.eu/
+http://www.envri.eu/community#ICOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#ICOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#ICOS	http://www.w3.org/2004/02/skos/core#prefLabel	Integrated Carbon Observation System
+http://www.envri.eu/community#ICOS	http://www.oil-e.net/ontology/envri-rm.owl#shortName	ICOS
+http://www.envri.eu/community#ICOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#ICOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#ICOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#ICOS	http://purl.org/dc/elements/1.1/description	ICOS RI is a pan-European research infrastructure which provides harmonised and high precision scientific data on carbon cycle and greenhouse gas budget and perturbations.
+http://www.envri.eu/community#LTER_Europe	http://xmlns.com/foaf/0.1/homepage	http://www.lter-europe.net/
+http://www.envri.eu/community#LTER_Europe	http://www.oil-e.net/ontology/oil-base.owl#supportedByProject	http://oil-e.vlan400.uvalight.net/lter-europe#ELTERH2020
+http://www.envri.eu/community#LTER_Europe	http://www.oil-e.net/ontology/oil-base.owl#supportedByProject	http://oil-e.vlan400.uvalight.net/lter-europe#Advance_eLTER
+http://www.envri.eu/community#LTER_Europe	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#LTER_Europe	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#LTER_Europe	http://www.w3.org/2004/02/skos/core#prefLabel	Long Term Ecosystem Research in Europe
+http://www.envri.eu/community#LTER_Europe	http://www.oil-e.net/ontology/envri-rm.owl#shortName	LTER-Europe
+http://www.envri.eu/community#LTER_Europe	http://www.oil-e.net/ontology/oil-base.owl#hasResource	http://oil-e.vlan400.uvalight.net/lter-europe#DEIMS
+http://www.envri.eu/community#LTER_Europe	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#LTER_Europe	http://www.oil-e.net/ontology/oil-base.owl#partOf	http://oil-e.vlan400.uvalight.net/lter-europe#ILTER
+http://www.envri.eu/community#LTER_Europe	http://purl.org/dc/elements/1.1/description	Long-Term Ecosystem Research (LTER) is an essential component of world-wide efforts to better understand ecosystems and the environment we depend on. Through research and long-term observation of representative sites around the globe, LTER enhances our understanding of the structure and functions of ecosystems, which provide essential services to people.
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#CloudNetFinalAssessment
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#EarlinetNRTQualityControl
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#EBASNRTQualityControl
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#CloudNetNRTQualityControl
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#EBASManualQualityControl
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#EarlinetQuarterlyQualityControl
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#EarlinetOriginatorQualityControl
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasBehaviour	http://oil-e.vlan400.uvalight.net/actris#EBASOriginatorQualityControl
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/actris#EBAS
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/actris#CloudNet
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/actris#EARLINET
+http://www.envri.eu/community#ACTRIS	http://xmlns.com/foaf/0.1/homepage	http://www.actris.eu/
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#supportedByProject	http://oil-e.vlan400.uvalight.net/actris#ACTRIS-2Project
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/oil-base.owl#supportedByProject	http://oil-e.vlan400.uvalight.net/actris#ACTRIS_PPP
+http://www.envri.eu/community#ACTRIS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#ACTRIS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#ACTRIS	http://www.w3.org/2004/02/skos/core#prefLabel	Aerosols, Clouds and Trace gases Research Infrastructure
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/envri-rm.owl#shortName	ACTRIS
+http://www.envri.eu/community#ACTRIS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#ACTRIS	http://purl.org/dc/elements/1.1/description	ACTRIS (Aerosols, Clouds and Trace gases Research Infrastructure) is a pan-European initiative consolidating actions amongst European partners producing high-quality observations of aerosols, clouds and trace gases. Different atmospheric processes are increasingly in the focus of many societal and environmental challenges, such as air quality, health, sustainability and climate change. ACTRIS aims to contribute in the resolving of such challenges by providing a platform for researchers to combine their efforts more effectively, and by providing observational data of aerosols, clouds and trace gases openly to anyone who might want to use them.
+http://www.envri.eu/community/DASSH#DASSH	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community/DASSH#DASSH	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community/DASSH#DASSH	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.envri.eu/community/DASSH#DASSH_Thing
+http://www.envri.eu/community/DASSH#DASSH	http://purl.org/dc/elements/1.1/description	DASSH manages a data archive that stores curated marine biological surveys of regions from the coasts and waters of the North East Atlantic.
+http://www.envri.eu/community/DASSH#DASSH	http://www.w3.org/2000/01/rdf-schema#label	DASSH research infrastructure
+http://www.envri.eu/community#CETAF	http://xmlns.com/foaf/0.1/homepage	https://cetaf.org/
+http://www.envri.eu/community#CETAF	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#CETAF	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#CETAF	http://www.w3.org/2004/02/skos/core#prefLabel	Consortium of European Taxonomic Facilities
+http://www.envri.eu/community#CETAF	http://www.oil-e.net/ontology/envri-rm.owl#shortName	CETAF
+http://www.envri.eu/community#CETAF	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#CETAF	http://purl.org/dc/elements/1.1/description	A taxonomic research network formed by institutions of reference in Europe holding 80% of the worlds’ described biodiversity as specimens, collections and their data. It connects over 5000 researchers in European Natural History Museums, Natural Sciences Museums, Botanic Gardens and other research institutions and contributes to Europe's knowledge-base by enhancing the synergies of members' collections and research capabilities.
+http://www.envri.eu/community#EUROCHAMP-2020	http://xmlns.com/foaf/0.1/homepage	https://www.eurochamp.org/
+http://www.envri.eu/community#EUROCHAMP-2020	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EUROCHAMP-2020	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EUROCHAMP-2020	http://www.w3.org/2004/02/skos/core#prefLabel	EUROCHAMP-2020
+http://www.envri.eu/community#EUROCHAMP-2020	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EUROCHAMP-2020
+http://www.envri.eu/community#EUROCHAMP-2020	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#EUROCHAMP-2020	http://purl.org/dc/elements/1.1/description	EUROCHAMP-2020 aims at further integrating the most advanced European atmospheric simulation chambers into a world-class infrastructure for research and innovation.
+http://www.envri.eu/community#ELIXIR	http://xmlns.com/foaf/0.1/homepage	https://www.elixir-europe.org/
+http://www.envri.eu/community#ELIXIR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#ELIXIR	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#ELIXIR	http://www.w3.org/2004/02/skos/core#prefLabel	ELIXIR
+http://www.envri.eu/community#ELIXIR	http://www.oil-e.net/ontology/envri-rm.owl#shortName	ELIXIR
+http://www.envri.eu/community#ELIXIR	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#ELIXIR	http://purl.org/dc/elements/1.1/description	ELIXIR is an intergovernmental organisation that brings together life science resources from across Europe. The goal of ELIXIR is to coordinate these resources so that they form a single infrastructure.
+http://www.envri.eu/community#ARISE	http://xmlns.com/foaf/0.1/homepage	http://arise-project.eu/
+http://www.envri.eu/community#ARISE	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#ARISE	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#ARISE	http://www.w3.org/2004/02/skos/core#prefLabel	Atmospheric dynamics Research InfraStructure in Europe
+http://www.envri.eu/community#ARISE	http://www.oil-e.net/ontology/envri-rm.owl#shortName	ARISE
+http://www.envri.eu/community#ARISE	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#ARISE	http://purl.org/dc/elements/1.1/description	ARISE combines international networks with complementary technologies such as infrasound, lidar, airglow, radar systems, ionospheric observations and satellites. This joint network provides advanced data products used as benchmarks for weather forecast models. The ARISE network also allows enhanced and detailed observations of other extreme events in the Earth system, such as erupting volcanoes, magnetic storms, tornadoes and tropical thunderstorms, for a better understanding of underlying physical processes and future monitoring for civil applications.
+http://www.envri.eu/community#EuroGOOS	http://xmlns.com/foaf/0.1/homepage	http://eurogoos.eu/
+http://www.envri.eu/community#EuroGOOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EuroGOOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EuroGOOS	http://www.w3.org/2004/02/skos/core#altLabel	EUROGOOS
+http://www.envri.eu/community#EuroGOOS	http://www.w3.org/2004/02/skos/core#prefLabel	European Global Ocean Observing System
+http://www.envri.eu/community#EuroGOOS	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EuroGOOS
+http://www.envri.eu/community#EuroGOOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#EuroGOOS	http://purl.org/dc/elements/1.1/description	EuroGOOS is an international non-profit association of national governmental agencies and research organisations, committed to European-scale operational oceanography within the context of the intergovernmental Global Ocean Observing System (GOOS).
+http://www.envri.eu/community#IS-ENES2	http://xmlns.com/foaf/0.1/homepage	https://verc.enes.org/ISENES2
+http://www.envri.eu/community#IS-ENES2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#IS-ENES2	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#IS-ENES2	http://www.w3.org/2004/02/skos/core#prefLabel	Infrastructure for the European Network of Earth System Modelling
+http://www.envri.eu/community#IS-ENES2	http://www.oil-e.net/ontology/envri-rm.owl#shortName	IS-ENES2
+http://www.envri.eu/community#IS-ENES2	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#AtmosphericDomain
+http://www.envri.eu/community#IS-ENES2	http://purl.org/dc/elements/1.1/description	IS-ENES2 is the second phase project of the distributed e-infrastructure of models, model data and metadata of the European Network for Earth System Modelling (ENES).
+http://www.envri.eu/community#EMSO	http://xmlns.com/foaf/0.1/homepage	http://www.emso-eu.org/
+http://www.envri.eu/community#EMSO	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EMSO	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EMSO	http://www.w3.org/2004/02/skos/core#prefLabel	European Multidisciplinary Seafloor and water-column Observatory
+http://www.envri.eu/community#EMSO	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EMSO
+http://www.envri.eu/community#EMSO	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#EMSO	http://purl.org/dc/elements/1.1/description	EMSO is a European-scale distributed research infrastructure of seafloor and water-column observatories.
+http://www.envri.eu/community#LifeWatch	http://xmlns.com/foaf/0.1/homepage	http://www.lifewatch.eu/
+http://www.envri.eu/community#LifeWatch	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#LifeWatch	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#LifeWatch	http://www.w3.org/2004/02/skos/core#prefLabel	LifeWatch
+http://www.envri.eu/community#LifeWatch	http://www.oil-e.net/ontology/envri-rm.owl#shortName	LifeWatch
+http://www.envri.eu/community#LifeWatch	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#LifeWatch	http://purl.org/dc/elements/1.1/description	e-Science European infrastructure for biodiversity and ecosystem research.
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/seadatanet#SeaDataNetEDIOS
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/seadatanet#SeaDataNetCDI
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/seadatanet#SeaDataNetEDMO
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/seadatanet#SeaDataNetCSRService
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/seadatanet#SeaDataNetEDMERP
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/seadatanet#SeaDataNetEDMED
+http://www.envri.eu/community#SeaDataNet	http://xmlns.com/foaf/0.1/homepage	http://www.seadatanet.org/
+http://www.envri.eu/community#SeaDataNet	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#SeaDataNet	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#SeaDataNet	http://www.w3.org/2004/02/skos/core#altLabel	SEADATANET
+http://www.envri.eu/community#SeaDataNet	http://www.w3.org/2004/02/skos/core#prefLabel	SeaDataNet
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/envri-rm.owl#shortName	SeaDataNet
+http://www.envri.eu/community#SeaDataNet	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#SeaDataNet	http://purl.org/dc/elements/1.1/description	Pan-European infrastructure for ocean and marine data management.
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/epos#IntegratedCoreServices
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/oil-base.owl#hasPart	http://oil-e.vlan400.uvalight.net/epos#ThematicCoreServices
+http://www.envri.eu/community#EPOS	http://xmlns.com/foaf/0.1/homepage	https://www.epos-eu.org/
+http://www.envri.eu/community#EPOS	http://xmlns.com/foaf/0.1/homepage	https://www.epos-ip.org/
+http://www.envri.eu/community#EPOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EPOS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EPOS	http://www.w3.org/2004/02/skos/core#prefLabel	European Plate Observing System
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EPOS
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/oil-base.owl#hasParticipant	http://oil-e.vlan400.uvalight.net/epos#INTERMAGNET
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/oil-base.owl#hasParticipant	http://oil-e.vlan400.uvalight.net/epos#EUREF
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/oil-base.owl#hasParticipant	http://oil-e.vlan400.uvalight.net/epos#ORFEUS
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/oil-base.owl#hasParticipant	http://oil-e.vlan400.uvalight.net/epos#EMSC
+http://www.envri.eu/community#EPOS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#SolidEarthDomain
+http://www.envri.eu/community#EPOS	http://purl.org/dc/elements/1.1/description	EPOS is a long-term plan for the integration of research infrastructures for solid Earth Science in Europe.
+http://www.envri.eu/community#EMPHASIS	http://xmlns.com/foaf/0.1/homepage	https://emphasis.plant-phenotyping.eu/
+http://www.envri.eu/community#EMPHASIS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#EMPHASIS	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#EMPHASIS	http://www.w3.org/2004/02/skos/core#prefLabel	EMPHASIS
+http://www.envri.eu/community#EMPHASIS	http://www.oil-e.net/ontology/envri-rm.owl#shortName	EMPHASIS
+http://www.envri.eu/community#EMPHASIS	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#EcosystemDomain
+http://www.envri.eu/community#EMPHASIS	http://purl.org/dc/elements/1.1/description	EMPHASIS is a pan-European distributed infrastructure listed on the ESFRI Roadmap for multi-scale plant phenotyping and simulation for food security in a changing climate. EMPHASIS aims at supporting the exploitation of crop genetic diversity required for the enhancement of plant productivity and progress in plant breeding. The infrastructure will enable diverse users to quantify a diversity of plant traits and the analysis of genotype performance in in current and future agro-climatic scenarios.
+http://www.envri.eu/community#DANUBIUS-RI	http://xmlns.com/foaf/0.1/homepage	http://www.danubius-ri.eu/
+http://www.envri.eu/community#DANUBIUS-RI	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.oil-e.net/ontology/envri-rm.owl#ResearchInfrastructure
+http://www.envri.eu/community#DANUBIUS-RI	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	http://www.w3.org/2002/07/owl#NamedIndividual
+http://www.envri.eu/community#DANUBIUS-RI	http://www.w3.org/2004/02/skos/core#prefLabel	DANUBIUS-RI
+http://www.envri.eu/community#DANUBIUS-RI	http://www.oil-e.net/ontology/envri-rm.owl#shortName	DANUBIUS
+http://www.envri.eu/community#DANUBIUS-RI	http://www.oil-e.net/ontology/envri-rm.owl#researchDomain	http://www.oil-e.net/ontology/envri-rm.owl#MarineDomain
+http://www.envri.eu/community#DANUBIUS-RI	http://purl.org/dc/elements/1.1/description	DANUBIUS-RI will be a pan-European distributed research infrastructure dedicated to interdisciplinary studies of large river–sea systems. It will enable and support research addressing the conflicts between society’s demands, environmental change and environmental protection in river–sea systems worldwide.
