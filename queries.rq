@@ -1,3 +1,5 @@
+# The ENVRI research domains (atmospheric, ecosystem, marine, solid earth)
+
 prefix base: <http://www.oil-e.net/ontology/oil-base.owl#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 prefix dc: <http://purl.org/dc/elements/1.1/>
@@ -9,7 +11,9 @@ where {
     dc:description ?description .
 }
 
+=================================================================
 
+# The ENVRI community research infrastructures
 
 prefix foaf: <http://xmlns.com/foaf/0.1/> 
 prefix rm: <http://www.oil-e.net/ontology/envri-rm.owl#>
@@ -25,4 +29,70 @@ where {
     rdfs:label ?label ;
     rm:researchDomain [ rdfs:label ?domain ] ;
     dc:description ?description .
+}
+
+=================================================================
+
+# The URI of a research infrastructure specified by label
+
+prefix rm: <http://www.oil-e.net/ontology/envri-rm.owl#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+select ?infrastructure ?prefLabel
+where {
+  ?infrastructure a rm:ResearchInfrastructure ;
+    rdfs:label "ACTRIS"^^xsd:string ;
+    skos:prefLabel ?prefLabel 
+}
+
+=================================================================
+
+# The FAIR assessments by a research infrastructure
+
+prefix ns: <http://envri.eu/ns/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+select ?repository
+where {
+  [] a ns:FAIRAssessment ;
+    ns:infrastructure <http://envri.eu/entity/Q9BcgOzo4> ;
+    ns:hasRepository [ rdfs:label ?repository ] .
+}
+
+=================================================================
+
+# The repositories of infrastructures not meeting R1.2
+
+prefix ns: <http://envri.eu/ns/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+select ?infrastructure ?repository
+where {
+  [] a ns:FAIRAssessment ;
+    ns:infrastructure [ rdfs:label ?infrastructure ] ;
+    ns:hasRepository [ 
+      rdfs:label ?repository ;
+      ns:hasMetadata [ ns:hasMachineReadableProvenance "false"^^xsd:bool ]
+    ] .
+}
+
+
+=================================================================
+
+# The demonstrators for R1.2
+
+prefix ns: <http://envri.eu/ns/>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix fair: <https://w3id.org/fair/principles/terms/>
+prefix schema: <http://schema.org/>
+
+select distinct ?demonstrator ?url
+where {
+  [] a fair:FAIR-SubPrinciple ;
+    rdfs:label "R1.2"@en ;
+    ns:hasDemonstrator [
+       rdfs:label ?demonstrator ;
+       schema:url ?url
+    ]
 }
