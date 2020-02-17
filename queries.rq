@@ -1,0 +1,28 @@
+prefix base: <http://www.oil-e.net/ontology/oil-base.owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix dc: <http://purl.org/dc/elements/1.1/>
+
+select ?label ?description
+where {
+  [] a base:ResearchDomain ;
+    rdfs:label ?label ;
+    dc:description ?description .
+}
+
+
+
+prefix foaf: <http://xmlns.com/foaf/0.1/> 
+prefix rm: <http://www.oil-e.net/ontology/envri-rm.owl#>
+prefix skos: <http://www.w3.org/2004/02/skos/core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix dc: <http://purl.org/dc/elements/1.1/>
+
+select ?prefLabel ?label ?domain ?homepage ?description 
+where {
+  [] a rm:ResearchInfrastructure ;
+    foaf:homepage ?homepage ;
+    skos:prefLabel ?prefLabel ;
+    rdfs:label ?label ;
+    rm:researchDomain [ rdfs:label ?domain ] ;
+    dc:description ?description .
+}

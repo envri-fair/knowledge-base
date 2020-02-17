@@ -1,4 +1,4 @@
-@prefix envri: <http://www.envri.eu/entity/> .
+@prefix envri: <http://envri.eu/entity/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -157,9 +157,9 @@ envri:QlpAxgDp4 rdf:type rm:ResearchInfrastructure ;
 
 envri:Qf5Zz6E5x rdf:type rm:ResearchInfrastructure ;
 	foaf:homepage "http://arise-project.eu/"^^xsd:anyURI ;
-	skos:prefLabel "Atmospheric dynamics Research InfraStructure in Europe" ;
-	rdfs:label "ARISE" ;
-	rm:shortName "ARISE" ;
+	skos:prefLabel "Atmospheric dynamics Research InfraStructure in Europe"^^xsd:string ;
+	rdfs:label "ARISE"^^xsd:string ;
+	rm:shortName "ARISE"^^xsd:string ;
 	rm:researchDomain envri:QmAOWQhKx ;
 	dc:description "ARISE combines international networks with complementary technologies such as infrasound, lidar, airglow, radar systems, ionospheric observations and satellites. This joint network provides advanced data products used as benchmarks for weather forecast models. The ARISE network also allows enhanced and detailed observations of other extreme events in the Earth system, such as erupting volcanoes, magnetic storms, tornadoes and tropical thunderstorms, for a better understanding of underlying physical processes and future monitoring for civil applications."^^xsd:string .
 
@@ -182,7 +182,7 @@ envri:Q4fV7OE6h rdf:type rm:ResearchInfrastructure ;
 
 envri:QMeqfk0V9 rdf:type rm:ResearchInfrastructure ;
 	foaf:homepage "http://www.emso-eu.org/"^^xsd:anyURI ;
-	skos:prefLabel "European Multidisciplinary Seafloor and water-column Observatory" ;
+	skos:prefLabel "European Multidisciplinary Seafloor and water-column Observatory"^^xsd:string ;
 	rdfs:label "EMSO"^^xsd:string ;
 	rm:shortName "EMSO"^^xsd:string ;
 	rm:researchDomain envri:QWmvj6lQv ;
