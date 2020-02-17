@@ -2,6 +2,8 @@
 @prefix rm: <http://www.oil-e.net/ontology/oil-base.owl#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix envri: <http://www.envri.eu/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 envri:QqKsuhT0R rdf:type rm:ResearchDomain ;
 	dc:description "The domain of environmental science concerned with solid earth processes."^^xsd:string ;
