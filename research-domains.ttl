@@ -1,0 +1,20 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rm: <http://www.oil-e.net/ontology/oil-base.owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix envri: <http://www.envri.eu/entity/> .
+
+envri:QqKsuhT0R rdf:type rm:ResearchDomain ;
+	dc:description "The domain of environmental science concerned with solid earth processes."^^xsd:string ;
+	rdfs:label "solid earth domain"^^xsd:string .
+
+envri:QmAOWQhKx rdf:type rm:ResearchDomain ;
+	dc:description "The domain of environmental science concerned with the atmosphere."^^xsd:string ;
+	rdfs:label "atmospheric domain" .
+
+envri:QWmvj6lQv rdf:type rm:ResearchDomain ;
+	dc:description "The domain of environmental science concerned with the oceans."^^xsd:string ;
+	rdfs:label "marine domain"^^xsd:string .
+
+envri:QRW2A7WrJ rdf:type rm:ResearchDomain ;
+	dc:description "The domain of environmental science concerned with biodiveristy and environmental ecosystems."^^xsd:string ;
+	rdfs:label "ecosystem domain"^^xsd:string .
