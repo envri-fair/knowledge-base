@@ -4,6 +4,11 @@
 @prefix envri: <http://envri.eu/entity/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+base:ResearchDomain rdf:type owl:Class ;
+	dc:description "A research domain that is of interest to a class of investigator, such as a particular scientific discipline."^^xsd:string ;
+	rdfs:label "research domain"^^xsd:string .
 
 envri:QqKsuhT0R rdf:type base:ResearchDomain ;
 	dc:description "The domain of environmental science concerned with solid earth processes."^^xsd:string ;

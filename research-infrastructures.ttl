@@ -6,6 +6,11 @@
 @prefix rm: <http://www.oil-e.net/ontology/envri-rm.owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+rm:ResearchInfrastructure rdf:type owl:Class ;
+	dc:description "A conglomeration of research resources providing some subset of data acquisition, data curation, data publishing, data processing and data use functionality to a research community."^^xsd:string ;
+	rdfs:label "research infrastructure"^^xsd:string .
 
 envri:QE7AxpB9M	rdf:type rm:ResearchInfrastructure ;
 	foaf:homepage "http://visobservatories.webs.com/"^^xsd:anyURI ;
