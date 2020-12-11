@@ -23,7 +23,7 @@ envri:provenance-demonstrator-2 a envri:TechnologyDemonstrator ;
 
 fair:I2 envri:hasDemonstrator envri:vocabularies-demonstrator .
 envri:vocabularies-demonstrator a envri:TechnologyDemonstrator ;
-	rdfs:label "vocabularies demonstrator"@en ;
+	rdfs:label "BODC vocabularies demonstrator"@en ;
 	dcterms:creator "Alexandra Kokkinaki" ;
 	dcterms:created "2020-01-23"^^xsd:date ;
 	schema:url "https://mybinder.org/v2/gh/envri-fair/vocabularies-demonstrator.git/master"^^xsd:anyURI .
