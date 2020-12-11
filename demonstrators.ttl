@@ -7,12 +7,19 @@
 
 envri:TechnologyDemonstrator rdfs:label "technology demonstrator"@en .
 
-fair:R1.2 envri:hasDemonstrator envri:provenance-demonstrator .
-envri:provenance-demonstrator a envri:TechnologyDemonstrator ;
-	rdfs:label "provenance demonstrator"@en ;
+fair:R1.2 envri:hasDemonstrator envri:provenance-demonstrator-1 .
+envri:provenance-demonstrator-1 a envri:TechnologyDemonstrator ;
+	rdfs:label "ACTRIS provenance demonstrator"@en ;
 	dcterms:creator "Markus Stocker" ;
 	dcterms:created "2019-12-06"^^xsd:date ;
 	schema:url "https://mybinder.org/v2/gh/envri-fair/provenance-demonstrator.git/master"^^xsd:anyURI .
+
+fair:R1.2 envri:hasDemonstrator envri:provenance-demonstrator-2 .
+envri:provenance-demonstrator-2 a envri:TechnologyDemonstrator ;
+	rdfs:label "IAGOS provenance demonstrator"@en ;
+	dcterms:creator "Damien Boulanger" ;
+	dcterms:created "2020-12-11"^^xsd:date ;
+	schema:url "https://github.com/envri-fair/iagos-prov"^^xsd:anyURI .
 
 fair:I2 envri:hasDemonstrator envri:vocabularies-demonstrator .
 envri:vocabularies-demonstrator a envri:TechnologyDemonstrator ;
