@@ -27,3 +27,10 @@ envri:vocabularies-demonstrator a envri:TechnologyDemonstrator ;
 	dcterms:creator "Alexandra Kokkinaki" ;
 	dcterms:created "2020-01-23"^^xsd:date ;
 	schema:url "https://mybinder.org/v2/gh/envri-fair/vocabularies-demonstrator.git/master"^^xsd:anyURI .
+
+fair:I1 envri:hasDemonstrator envri:netcdfld-demonstrator .
+envri:netcdfld-demonstrator a envri:TechnologyDemonstrator ;
+	rdfs:label "SIOS netCDF-LD demonstrator"@en ;
+	dcterms:creator "Lara Ferrighi" ;
+	dcterms:created "2020-04-29"^^xsd:date ;
+	schema:url "https://mybinder.org/v2/gh/ferrighi/netcdf-ld-prototype.git/HEAD"^^xsd:anyURI .
